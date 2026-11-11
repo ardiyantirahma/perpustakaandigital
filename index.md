@@ -7,5 +7,6 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [2028](ebook/2028.pdf)-Emperor (2026)
 3. [Rangkuman UGC](ebook/Rangkuman UGC.pdf)-Ardiyanti Rahma (2026)
 4. [A Viking Blood Saga - Winter Solstice](ebook/A Viking Blood Saga - Winter Solstice.pdf)-E.J. Squires (2013)
+5. [Created A Devil](ebook/Created A Devil.pdf)-Mimilove (2026)
 
 *powered by github pages* 
