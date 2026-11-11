@@ -8,5 +8,6 @@ Berikut ini adalah koleksi yang dimiliki:
 3. [Rangkuman UGC](ebook/Rangkuman UGC.pdf)-Ardiyanti Rahma (2026)
 4. [A Viking Blood Saga - Winter Solstice](ebook/A Viking Blood Saga - Winter Solstice.pdf)-E.J. Squires (2013)
 5. [Created A Devil](ebook/Created A Devil.pdf)-Mimilove (2026)
+6. [Raining Hammers](ebook/Raining Hammers)-Kirin Lightly (2025)
 
 *powered by github pages* 
