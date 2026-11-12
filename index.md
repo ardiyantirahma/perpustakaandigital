@@ -10,5 +10,6 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Created A Devil](ebook/Created A Devil.pdf)-Mimilove (2026)
 6. [The Road That Made For Me](ebook/The Road That Made For Me)-Adalyn Corea Velásquez (20256)
 7. [WW3](ebook/WW3.pdf)-Lynden Pennington (2026)
+8. [Academy of Tyranny](ebook/Academy of Tyranny)-Alwin Twac (2026)
 
 *powered by github pages* 
