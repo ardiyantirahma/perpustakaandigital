@@ -12,5 +12,6 @@ Berikut ini adalah koleksi yang dimiliki:
 7. [WW3](ebook/WW3.pdf)-Lynden Pennington (2026)
 8. [Academy of Tyranny](ebook/Academy of Tyranny)-Alwin Twac (2026)
 9. [Connie the Angel Cat](ebook/Connie the Angel Cat)- Lori Randolph (2025)
+10. [The Story of A Good Man](ebook/The Story of A Good Man)-Alexander Sukhovlev (2026)
 
 *powered by github pages* 
