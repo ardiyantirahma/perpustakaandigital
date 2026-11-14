@@ -11,5 +11,6 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [WW3](ebook/WW3.pdf)-Lynden Pennington (2026)
 7. [Raining Hammers](ebook/Raining Hammers.pdf)-Kirin Lightly (2025)
 8. [The Wonderful Wizard of OZ](ebook/The Wonderful Wizard of OZ.pdf)-L. Frank Baum (1900)
+9. [Academy of Tyranny](ebook/Academy of Tyranny.pdf)-Alwin Twac (2026)
 
 *powered by github pages* 
