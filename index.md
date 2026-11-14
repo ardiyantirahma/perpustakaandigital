@@ -9,6 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [A Viking Blood Saga - Winter Solstice](ebook/A Viking Blood Saga - Winter Solstice.pdf)-E.J. Squires (2013)
 5. [Created A Devil](ebook/Created A Devil.pdf)-Mimilove (2026)
 6. [WW3](ebook/WW3.pdf)-Lynden Pennington (2026)
-7. [Raining Hammers](ebook/Raining Hammers.pdf)-Kirin Lightly (2025) 
+7. [Raining Hammers](ebook/Raining Hammers.pdf)-Kirin Lightly (2025)
+8. [The Wonderful Wizard of OZ](ebook/The Wonderful Wizard of OZ.pdf)-L. Frank Baum (1900)
 
 *powered by github pages* 
