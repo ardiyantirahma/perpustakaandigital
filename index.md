@@ -14,5 +14,6 @@ Berikut ini adalah koleksi yang dimiliki:
 9. [Academy of Tyranny](ebook/Academy of Tyranny.pdf)-Alwin Twac (2026)
 10. [The Road That Made For Me](ebook/The Road That Made For Me.pdf)-Adalyn Corea Velàsquez (2026)
 11. [The Story of A Good Man](ebook/The Story of A Good Man.pdf)-Alexander Sukhovlev (2026)
+12. [Connie the Angel Cat](ebook/Connie the Angel Cat.pdf)-Lori Randolph (2025)
 
 *powered by github pages* 
